@@ -1,0 +1,23 @@
+Problem 1 - Equal number of 'a's and 'b's: 
+Accepted
+Accepted
+Not accepted
+Not accepted
+End of problem 1
+--------------------
+Problem 2 - accepting a number of a's is twice the number of 
+b's.:
+Accepted
+Not accepted
+Not accepted
+Accepted
+End of Problem 2
+--------------------
+Problem 3 - Palindrome: 
+Accepted
+Not accepted
+Accepted
+Accepted
+Not accepted
+End of problem 3
+--------------------
