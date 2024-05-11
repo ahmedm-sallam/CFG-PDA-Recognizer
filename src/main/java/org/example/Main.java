@@ -14,7 +14,7 @@ public class Main {
                     case "1" -> CFG_1.validate(inputCfg, outputCfg);
                     case "2" -> CFG_2.validate(inputCfg, outputCfg);
                     case "3" -> CFG_3.validate(inputCfg, outputCfg);
-//                    case "4" -> CFG_4.validate(inputCfg, outputCfg);
+                    case "4" -> CFG_4.validate(inputCfg, outputCfg);
 
                 }
             }
